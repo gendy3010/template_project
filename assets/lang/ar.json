@@ -1,7 +1,7 @@
-
 {
-  "title": "تطبيقي",
-  "hello": "مرحبا",
-  "The language has been changed to English.": "تم تغيير اللغة للغة العربية."
-
+  "choose_from_gallery": "اختيار صورة من المعرض",
+  "open_camera": "فتح الكاميرا",
+  "upload_image": "رفع الصورة",
+  "no_image_selected": "لا توجد صورة مختارة.",
+  "upload_image_title": "رفع الصورة"
 }
